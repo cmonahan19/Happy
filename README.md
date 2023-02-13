@@ -1,2 +1,2 @@
-# Happy
-This repository is all about things that make you happy, no matter how big or small they may be! 
+# Musically
+This file will help you figure out how to rank the top 10 songs nationally today! 
